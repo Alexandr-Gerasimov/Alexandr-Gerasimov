@@ -12,4 +12,6 @@
 
 HTML, CSS, JavaScript, React, Redux, TypeScript, MongoDB, PostgreSQL, Node.js 
 
-![hippo](https://i.gifer.com/FBtE.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif"/>
+</div>
